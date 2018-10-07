@@ -2,8 +2,7 @@ import React, { Component } from "react";
 import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Columns from "./components/Columns";
-// import Header from "./components/Header";
-import legos from "./legos.json";
+import legos from "./img/LegoInfo";
 import "./App.css";
 import Hero from "./components/Hero";
 
@@ -20,7 +19,7 @@ class App extends Component {
     resetGame = (currentScore, legosClicked ) => {
         let message = "";
         if (currentScore === legos.length){
-           message =  "You Win!!!"
+           message =  "You Won!!!"
         }else{
             message = currentScore === 0 ? "Oh no... You Lost :( " : "You Got this! :D"
         }
