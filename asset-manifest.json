@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.2c3eaef9.chunk.css",
-  "main.js": "/static/js/main.2884dc63.chunk.js",
-  "main.js.map": "/static/js/main.2884dc63.chunk.js.map",
-  "static/js/1.13a15114.chunk.js": "/static/js/1.13a15114.chunk.js",
-  "static/js/1.13a15114.chunk.js.map": "/static/js/1.13a15114.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.2c3eaef9.chunk.css.map": "/static/css/main.2c3eaef9.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.e760f6fadd951ec1d414a243749c87d7.js": "/precache-manifest.e760f6fadd951ec1d414a243749c87d7.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/clicky-lego-juego/static/css/main.2c3eaef9.chunk.css",
+  "main.js": "/clicky-lego-juego/static/js/main.ed66e891.chunk.js",
+  "main.js.map": "/clicky-lego-juego/static/js/main.ed66e891.chunk.js.map",
+  "static/js/1.13a15114.chunk.js": "/clicky-lego-juego/static/js/1.13a15114.chunk.js",
+  "static/js/1.13a15114.chunk.js.map": "/clicky-lego-juego/static/js/1.13a15114.chunk.js.map",
+  "runtime~main.js": "/clicky-lego-juego/static/js/runtime~main.1ce772fc.js",
+  "runtime~main.js.map": "/clicky-lego-juego/static/js/runtime~main.1ce772fc.js.map",
+  "static/css/main.2c3eaef9.chunk.css.map": "/clicky-lego-juego/static/css/main.2c3eaef9.chunk.css.map",
+  "index.html": "/clicky-lego-juego/index.html",
+  "precache-manifest.b91b114487b94a34c9a878e2699ed2f9.js": "/clicky-lego-juego/precache-manifest.b91b114487b94a34c9a878e2699ed2f9.js",
+  "service-worker.js": "/clicky-lego-juego/service-worker.js"
 }
