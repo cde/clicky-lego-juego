@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/clicky-lego-juego/precache-manifest.b91b114487b94a34c9a878e2699ed2f9.js"
+  "/clicky-lego-juego/precache-manifest.9949fc68faebf463dcdf80ed9126a676.js"
 );
 
 workbox.clientsClaim();
